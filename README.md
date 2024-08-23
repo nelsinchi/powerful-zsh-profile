@@ -52,7 +52,7 @@ Due to my constant Senior Linux SysAdmin work, I migrated some time ago from `BA
    curl -s https://ohmyposh.dev/install.sh | bash -s -- -d ~/bin
    ```
 
-   **Optional: Only if wanted to install `Oh My Zsh` and `Oh My Posh` in the `root` prompt**
+   **Optional: Only if wanted to install `Oh My Zsh` and `Oh My Posh` in the `root` prompt.**
 
    ```shell
    sudo su -
@@ -66,7 +66,7 @@ Due to my constant Senior Linux SysAdmin work, I migrated some time ago from `BA
 
 2. Run the following commands to install the plugins.
 
-   **NOTE:** If using the root prompt too, don't forget running the following `git clone` commands in `root`.
+   **NOTE:** If using the `root` prompt too, don't forget to run the following `git clone` commands in `root`.
 
    **Ubuntu Packages:**
 
@@ -97,7 +97,7 @@ Due to my constant Senior Linux SysAdmin work, I migrated some time ago from `BA
 
 ## Configuration
 
-1. Clone and copy the config files from this repository at `~/` for the `$USER` to configure the profile, do the same for `root` if it is also in use.
+1. Clone and copy the config files and directories from this repository to use them at `~/` for the `$USER` to configure the profile, do the same for `root` if it is also in use.
 
 
 2. Download the nerd-fonts package with the following command:
