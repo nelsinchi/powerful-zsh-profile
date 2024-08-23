@@ -1,8 +1,8 @@
 # My powerful ZSH profile
 
-**NOTE:** All this content was created under Linux Ubuntu 24.04 Desktop, but with small adjustments, the following can be used for Windows and macOS too.
+**NOTE:** All this content was created under Linux Ubuntu 24.04 Desktop, but with small adjustments, the following can also be used for Windows and macOS.
 
-Due to my constant Senior Linux SysAdmin work, I migrated some time ago from `BASH` to `ZSH` shell with all the following and very beneficial tools:
+Due to my constant Senior Linux SysAdmin work, I migrated some time ago from `BASH` to `ZSH` shell with all the following and very beneficial tools included:
 
 - **[Oh My Zsh](https://ohmyz.sh)** - `Oh My Zsh` framework for managing the `ZSH` configuration.
 - **[Oh My Posh](https://ohmyposh.dev)** - Put your terminal prompt nice!
